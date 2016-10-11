@@ -1,0 +1,1 @@
+# generator-asc-angular1
